@@ -1,8 +1,6 @@
-- 👋 Hi, I’m David! :)
-- 👀 I’m interested in pwning n00bs
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+My name's David and I'm a self taught artist, programmer, streamer, and social media expert!
+If you would like to reach me about career opportunities please contact me at:
+davidjusticejimenez@gmail.com
 
 <!---
 drowsy-rice/drowsy-rice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
